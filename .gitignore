@@ -1,0 +1,14 @@
+#Temporary files
+*~
+
+#Plots
+*Plots/*
+
+#Data
+*Data/*
+
+#OLD files
+*OLD/*
+
+#MAC style files
+*.DS_Store
